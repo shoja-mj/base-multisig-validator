@@ -2,7 +2,7 @@
 A JavaScript implementation to simulate threshold signature enforcement schemas for high-security multi-sig smart contracts.
 // ========================================================
 // EDIT THIS VARIABLE TO GENERATE A NEW PUBLIC COMMIT
-const BUILD_COUNT_TRIGGER = 9;
+const BUILD_COUNT_TRIGGER = 10;
 // ========================================================
 
 class MultiSigValidator {
